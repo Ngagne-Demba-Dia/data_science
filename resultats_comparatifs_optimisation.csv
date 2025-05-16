@@ -1,0 +1,5 @@
+Méthode,F1 Score,Precision,Recall,Durée d'exécution (s)
+Base (sans optimisation),0.9873,0.9874,0.9873,0.00
+RandomizedSearchCV,0.9860,0.9861,0.9860,18.72
+GridSearchCV,0.9877,0.9877,0.9877,39.43
+Optuna,0.9866,0.9866,0.9866,47.39
